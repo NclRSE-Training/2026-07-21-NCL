@@ -278,8 +278,16 @@ address.
             {% endcomment %}
             <p id="requirements">
             {% if online == "false" %}
-                Participants must bring a laptop with a
-                Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
+			<h4>Newcastle University Managed Computers</h4>
+			<p>
+				The University provides 'packaged' software, which can be installed without admin rights on your managed laptop or workstation. 
+				<ol>
+					<li>Open 'Software Center' from the start button and search for the software you need </li>
+					<li>Click 'install'</li>
+					<li>After install is completed, the new software can be launched from the start menu.</li>
+				</ol>
+				If you can't see the software you need, log a ticket at <a href="https://nuservice.ncl.ac.uk">https://nuservice.ncl.ac.uk</a> to request that it is added to Software Center. You'll need to provide the PC name. 
+			</p>	
             {% else %}
                 Participants must have access to a computer with a
                 Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
