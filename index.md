@@ -293,7 +293,7 @@ address.
                 Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
             {% endif %}
             Participants are welcome to bring and use their own laptop, provided they have admin rights have a few specific software packages installed (listed <a href="#setup">below</a>) before the workshop.
-            </p>
+          
         </dd>  
     </div>
     <div class="row">
