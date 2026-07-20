@@ -278,9 +278,10 @@ address.
             {% endcomment %}
             <p id="requirements">
             {% if online == "false" %}
-			<h4>Newcastle University Managed Computers</h4>
+			<p> Windows PCs are available in the training room.  Log in with your University credentials
+      </p>
 			<p>
-				The University provides 'packaged' software, which can be installed without admin rights on your managed laptop or workstation. 
+				Newcastle University Managed Windows Laptops: The University provides 'packaged' software, which can be installed without admin rights on your managed laptop or workstation. 
 				<ol>
 					<li>Open 'Software Center' from the start button and search for the software you need </li>
 					<li>Click 'install'</li>
