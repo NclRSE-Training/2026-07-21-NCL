@@ -3,7 +3,7 @@
 
 # Required variables
 venue: "Newcastle University"
-description: "Henry Daysh Building, PGR Learning Lab R6.19"
+address: "Henry Daysh Building, PGR Learning Lab R6.19"
 country: "gb"
 language: "en"
 latitude: "54.980533"
